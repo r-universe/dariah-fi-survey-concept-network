@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "finnsurveytext"]
+	path = finnsurveytext
+	url = https://github.com/dariah-fi-survey-concept-network/finnsurveytext
